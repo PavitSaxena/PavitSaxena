@@ -1,6 +1,6 @@
-- 👋 Hey There , I’m @PavitSaxena
-- 📃 I’m Currently Working In Learning New Skills ..
-- 🌱 I’m Currently Learning Web Developement..
+- 👋 Hey There , I am PavitSaxena
+- 📃 Currently , I am Working On Learning New Skills ..
+- 🌱 Nowadays Learning Web Developement..
 - 😎 Loves Meeting And Interacting New People..
 
 <!---
